@@ -1,2 +1,2 @@
 ## Welcome to my code repository!
-![pic](/Pictures/"When everything goes wrong.png")
+!(http://oi66.tinypic.com/2efuvsw.jpg)
